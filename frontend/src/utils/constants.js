@@ -1,0 +1,1 @@
+export const devAPIURL = 'http://localhost:8000'
